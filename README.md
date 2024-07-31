@@ -5,5 +5,4 @@ This engine is originally based on HellEngine which is based on John Engine whic
 ReimaginedEngine is being builded under custom (Dev) version of HaxeFlixel.
 
 # Credits
-• DragShot - Active LUA scripter
-• Psych Engine Team
+DragShot - Active LUA scripter
