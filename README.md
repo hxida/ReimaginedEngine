@@ -6,3 +6,7 @@ ReimaginedEngine is being builded under custom (Dev) version of HaxeFlixel.
 
 # Credits
 DragShot - Active LUA scripter
+
+# Mod Links
+- [Gamebanana](https://gamebanana.com/mods/529348)
+- [GameJolt](https://gamejolt.com/games/for-reimagined/912553)
